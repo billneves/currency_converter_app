@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um projeto Django que implementa uma API para conversão de moedas em tempo real. A aplicação permite que os usuários convertam valores entre diferentes moedas, utilizando cotações reais e atuais.
+Este é um projeto Django que implementa uma API para conversão de moedas em tempo real. A aplicação permite que os usuários convertam valores entre diferentes moedas, utilizando cotações reais e moedas atuais.
 
 ## Funcionalidades
 
